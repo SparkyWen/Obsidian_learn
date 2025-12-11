@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "acc3770e3983a42d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab54fc631b53960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84667f75ce395bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hot100/链表/排序链表/排序链表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序链表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00f6ca4939e77baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "891343fcea327ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d94272aeaaa374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1bb28a0a3a9324c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d70a1052286eb777",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "822dbff60df2434d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ee1be59639bd773",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a1c2436af63827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81187eabad3e2971",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hot100/链表/排序链表/排序链表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "排序链表 的反向链接列表"
+            }
+          },
+          {
+            "id": "6c6d769c76fff733",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hot100/链表/排序链表/排序链表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "排序链表 的出链列表"
+            }
+          },
+          {
+            "id": "ac861bb9d17db35d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "284c8d3043d36b38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "92e829af2945d3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hot100/链表/排序链表/排序链表.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "排序链表 的大纲"
+            }
+          },
+          {
+            "id": "da82da5697f25357",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "81187eabad3e2971",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Hot100/链表/排序链表/排序链表.md",
+    "Untitled.md",
+    "Template/img-67-percent.md",
+    "Template/img-50-percent.md",
+    "Template/img-33-percent.md",
+    "Hot100/链表/排序链表/Pasted image 20251211215501 1.png",
+    "Hot100/链表/K 个一组翻转链表/K 个一组翻转链表.md",
+    "未命名.md",
+    "Hot100/代码基础.md",
+    "Hot100/链表/排序链表/Pasted image 20251211215501.png",
+    "Jianzhi_75/5. 序列化和反序列化/序列化和反序列化二叉树.md",
+    "Template/New Text Document.txt",
+    "Template",
+    "New folder",
+    "Hot100/链表/排序链表/Pasted image 20251211210817.png",
+    "Jianzhi_75/9. 二叉树的最大深度/二叉树的最大深度.md",
+    "Jianzhi_75/6. 翻转二叉树/翻转二叉树.md",
+    "Jianzhi_75/1. 对称二叉树/对称二叉树.md",
+    "merge_linkedList.png",
+    "Hot100/链表/相交链表/相交链表.md",
+    "Hot100/链表/排序链表/merge_linkedList.png",
+    "New Text Document.txt"
+  ]
+}
