@@ -9,5 +9,8 @@
   "templater-obsidian",
   "obsidian-hider",
   "file-explorer-note-count",
-  "settings-profiles"
+  "settings-profiles",
+  "copilot",
+  "pdf-plus",
+  "obsidian-pandoc"
 ]
