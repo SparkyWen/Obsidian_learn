@@ -248,9 +248,10 @@ E:\Au_notes\Obsidian\Use
 - 即使你在 `.gitignore` 里写了
 
   ```
-  .obsidian
+  .obsidian/
   .obsidian/workspace.json
   .obsidian/workspace-mobile.json
+  copilot/
   ```
 
 - Git 仍然会继续跟踪它的修改，并且允许你 **stage** 这些变化。
