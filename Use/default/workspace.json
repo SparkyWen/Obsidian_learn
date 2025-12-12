@@ -194,9 +194,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "eff18d9d85796bd9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -218,10 +228,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0075619c7279b5c2",
+  "active": "eff18d9d85796bd9",
   "lastOpenFiles": [
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
