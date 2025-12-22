@@ -1,8 +1,160 @@
 {
   "recentFiles": [
     {
+      "basename": "链表总结",
+      "path": "Hot100/链表/链表总结.md"
+    },
+    {
+      "basename": "反转链表",
+      "path": "Hot100/链表/反转链表/反转链表.md"
+    },
+    {
+      "basename": "LRU缓存",
+      "path": "Hot100/链表/LRU缓存/LRU缓存.md"
+    },
+    {
+      "basename": "合并K个升序链表",
+      "path": "Hot100/链表/合并K个升序链表/合并K个升序链表.md"
+    },
+    {
+      "basename": "K 个一组翻转链表",
+      "path": "Hot100/链表/K 个一组翻转链表/K 个一组翻转链表.md"
+    },
+    {
       "basename": "排序链表",
       "path": "Hot100/链表/排序链表/排序链表.md"
+    },
+    {
+      "basename": "随机链表的复制",
+      "path": "Hot100/链表/随机链表的复制/随机链表的复制.md"
+    },
+    {
+      "basename": "两两交换链表中的节点",
+      "path": "Hot100/链表/两两交换链表中的节点/两两交换链表中的节点.md"
+    },
+    {
+      "basename": "删除链表的倒数第 N 个结点",
+      "path": "Hot100/链表/删除链表的倒数第 N 个结点/删除链表的倒数第 N 个结点.md"
+    },
+    {
+      "basename": "两数之和",
+      "path": "Hot100/链表/两数之和/两数之和.md"
+    },
+    {
+      "basename": "环形链表 II",
+      "path": "Hot100/链表/环形链表 II/环形链表 II.md"
+    },
+    {
+      "basename": "环形链表",
+      "path": "Hot100/链表/环形链表/环形链表.md"
+    },
+    {
+      "basename": "相交链表",
+      "path": "Hot100/链表/相交链表/相交链表.md"
+    },
+    {
+      "basename": "回文链表",
+      "path": "Hot100/链表/回文链表/回文链表.md"
+    },
+    {
+      "basename": "矩阵技巧和思想复习",
+      "path": "Hot100/矩阵/矩阵技巧和思想复习.md"
+    },
+    {
+      "basename": "搜索二维矩阵",
+      "path": "Hot100/矩阵/搜索二维矩阵/搜索二维矩阵.md"
+    },
+    {
+      "basename": "旋转图像",
+      "path": "Hot100/矩阵/旋转图像/旋转图像.md"
+    },
+    {
+      "basename": "螺旋矩阵",
+      "path": "Hot100/矩阵/螺旋矩阵/螺旋矩阵.md"
+    },
+    {
+      "basename": "矩阵置零",
+      "path": "Hot100/矩阵/矩阵置零/矩阵置零.md"
+    },
+    {
+      "basename": "数组技巧和思想总结",
+      "path": "Hot100/普通数组/数组技巧和思想总结.md"
+    },
+    {
+      "basename": "缺失的第一个正数",
+      "path": "Hot100/普通数组/缺失的第一个正数/缺失的第一个正数.md"
+    },
+    {
+      "basename": "除自身以外数组的乘积",
+      "path": "Hot100/普通数组/除自身以外数组的乘积/除自身以外数组的乘积.md"
+    },
+    {
+      "basename": "轮转数组",
+      "path": "Hot100/普通数组/轮转数组/轮转数组.md"
+    },
+    {
+      "basename": "合并区间",
+      "path": "Hot100/普通数组/合并区间/合并区间.md"
+    },
+    {
+      "basename": "最大子数组和",
+      "path": "Hot100/普通数组/最大子数组和/最大子数组和.md"
+    },
+    {
+      "basename": "enumerate_while_for总结",
+      "path": "Hot100/子串/enumerate_while_for总结.md"
+    },
+    {
+      "basename": "最小覆盖子串",
+      "path": "Hot100/子串/最小覆盖子串/最小覆盖子串.md"
+    },
+    {
+      "basename": "哈希补充：defaultdict, sorted,报错",
+      "path": "Hot100/哈希/哈希补充：defaultdict, sorted,报错.md"
+    },
+    {
+      "basename": "滑动窗口最大值",
+      "path": "Hot100/子串/滑动窗口最大值/滑动窗口最大值.md"
+    },
+    {
+      "basename": "和为k的子数组",
+      "path": "Hot100/子串/和为k的子数组/和为k的子数组.md"
+    },
+    {
+      "basename": "区别对比双指针和滑动窗口",
+      "path": "Hot100/滑动窗口/区别对比双指针和滑动窗口.md"
+    },
+    {
+      "basename": "前后缀，移动指针，单调栈的关键做法",
+      "path": "Hot100/双指针/前后缀，移动指针，单调栈的关键做法.md"
+    },
+    {
+      "basename": "三数之和",
+      "path": "Hot100/双指针/三数之和/三数之和.md"
+    },
+    {
+      "basename": "接雨水",
+      "path": "Hot100/双指针/接雨水/接雨水.md"
+    },
+    {
+      "basename": "盛水最多的容器",
+      "path": "Hot100/双指针/盛水最多的容器/盛水最多的容器.md"
+    },
+    {
+      "basename": "移动零",
+      "path": "Hot100/双指针/移动零/移动零.md"
+    },
+    {
+      "basename": "最长连续序列",
+      "path": "Hot100/哈希/最长连续序列/最长连续序列.md"
+    },
+    {
+      "basename": "字母异位词分组",
+      "path": "Hot100/哈希/字母异位词分组/字母异位词分组.md"
+    },
+    {
+      "basename": "两数之和",
+      "path": "Hot100/哈希/两数之和/两数之和.md"
     },
     {
       "basename": "img-67-percent",
@@ -15,10 +167,6 @@
     {
       "basename": "img-33-percent",
       "path": "Template/img-33-percent.md"
-    },
-    {
-      "basename": "K 个一组翻转链表",
-      "path": "Hot100/链表/K 个一组翻转链表/K 个一组翻转链表.md"
     },
     {
       "basename": "代码基础",
